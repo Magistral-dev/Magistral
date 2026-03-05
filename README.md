@@ -1,165 +1,181 @@
-<div align="center">
+<!-- HEADER ANIMATION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jordan%20Magistral&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,100:24243e&height=220&section=header&text=Jordan%20Magistral&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Cybersecurity%20Builder&descAlignY=58&descSize=18&descColor=a0aec0"/>
+<h1 align="center">👋 Hello, I'm Jordan Magistral</h1>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6EE7F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+intelligent+security+systems+%F0%9F%9B%A1;AI-powered+threat+detection+%26+response+%F0%9F%A4%96;Turning+code+into+cyber+defense+%F0%9F%94%90)](https://git.io/typing-svg)
-
-<br>
-
-<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6EE7F7&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=6EE7F7)](https://github.com/YOUR_USERNAME)
-
-</div>
+<h3 align="center">
+Software Engineering Student | AI & Cybersecurity Enthusiast | Builder
+</h3>
 
 ---
 
-## 👤 About Me
+# 🚀 About Me
 
-```python
-class JordanMagistral:
-    def __init__(self):
-        self.name        = "Jordan Magistral"
-        self.role        = "Software Engineering Student"
-        self.location    = "🌍 Africa / Remote"
-        self.languages   = ["Python", "Java", "JavaScript"]
-        self.focus       = ["AI", "Cybersecurity", "Automation", "Android Dev"]
-        self.current     = "AI Guardian — Intelligent Cyber Defense Platform"
-        self.goal        = "Build AI systems that detect & neutralize threats autonomously"
+💻 Software Engineering Student  
+🧠 Passionate about **Artificial Intelligence, Cybersecurity and Automation**  
+📱 Android Developer (Java)  
+🌐 Learning **React.js, TailwindCSS and Modern Web Development**  
+🔐 Building intelligent systems for **threat detection and network protection**
 
-    def mission(self):
-        return "Contribute to the future of AI-powered cybersecurity 🛡"
-```
+🔥 I love building systems that **detect, analyze and react to security threats automatically.**
 
 ---
 
-## 🛡 AI Guardian — Main Project
+# 🧠 Current Main Project
 
-<div align="center">
+## 🛡 AI Guardian
 
-> **Intelligent platform for prevention, detection and automated response to operational risks.**
+**AI Guardian – Intelligent platform for prevention, detection and response to operational risks.**
 
-</div>
+Features:
 
-| Feature | Status |
-|---|---|
-| 🔍 Real-time attack monitoring | ✅ Active |
-| 🔐 SSH brute-force detection | ✅ Active |
-| 🤖 Automated response system | ✅ Active |
-| 🚫 Dynamic IP blocking | ✅ Active |
-| 📊 Security dashboard | 🔄 In progress |
-| 🧠 Log analysis with AI | 🔄 In progress |
+✔ Real-time attack monitoring  
+✔ SSH brute-force detection  
+✔ Automated response system  
+✔ IP blocking system  
+✔ Security dashboard  
+✔ Log analysis with AI
 
-**Future Vision:**
-- 🏭 SOC automation pipeline
-- 🤖 Machine Learning threat detection models
-- 📡 Real-time network monitoring at scale
+Future Vision:
 
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=6EE7F7)
-![Java](https://img.shields.io/badge/Java-302b63?style=for-the-badge&logo=openjdk&logoColor=6EE7F7)
-![JavaScript](https://img.shields.io/badge/JavaScript-24243e?style=for-the-badge&logo=javascript&logoColor=6EE7F7)
-
-### Web & UI
-![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=6EE7F7)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-302b63?style=for-the-badge&logo=tailwindcss&logoColor=6EE7F7)
-
-### Security & System
-![Linux](https://img.shields.io/badge/Kali_Linux-24243e?style=for-the-badge&logo=kalilinux&logoColor=6EE7F7)
-![Bash](https://img.shields.io/badge/Bash-0f0c29?style=for-the-badge&logo=gnu-bash&logoColor=6EE7F7)
-
-### Database & Mobile
-![MongoDB](https://img.shields.io/badge/MongoDB-302b63?style=for-the-badge&logo=mongodb&logoColor=6EE7F7)
-![Android](https://img.shields.io/badge/Android_(Java)-24243e?style=for-the-badge&logo=android&logoColor=6EE7F7)
-
-</div>
+- SOC automation
+- Machine Learning threat detection
+- Real-time monitoring platform
 
 ---
 
-## 📊 GitHub Stats
+# 🧰 Tech Stack
 
-<div align="center">
+## Languages
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=0f0c29&border_color=302b63&icon_color=6EE7F7&title_color=6EE7F7&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=0f0c29&border_color=302b63&title_color=6EE7F7&hide_border=false"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</div>
+## Web
 
-<div align="center">
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&background=0F0C29&border=302B63&ring=6EE7F7&fire=6EE7F7&currStreakLabel=6EE7F7)](https://git.io/streak-stats)
+## Security / System
 
-</div>
+![Linux](https://img.shields.io/badge/Linux-Kali-black?style=for-the-badge&logo=linux)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
 
----
+## Databases
 
-## ⚡ Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0f0c29&color=6EE7F7&line=302b63&point=6EE7F7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
 
 ---
 
-## 🔬 Projects
+# 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-| Project | Description | Stack | Link |
-|---|---|---|---|
-| 🛡 **AI Guardian** | Intelligent cybersecurity platform with real-time threat detection, SSH brute-force protection, auto-response & AI log analysis | Python · Bash · React · MongoDB | [→ Repo](https://github.com/YOUR_USERNAME/ai-guardian) |
-| 📚 **Exam Archive** | Platform for storing & sharing past exams with freemium access, corrected solutions & student community | JavaScript · React · TailwindCSS | [→ Repo](https://github.com/YOUR_USERNAME/exam-archive) |
-| 📱 **Android Apps** | Mobile applications in Java Android featuring local DB, smooth animations & modern UI patterns | Java · Android · SQLite | [→ Repo](https://github.com/YOUR_USERNAME/android-projects) |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 🧠 Interests & Vision
+# ⚡ GitHub Activity
 
-<div align="center">
+<p align="center">
 
-```
-⚡ Artificial Intelligence      🔐 Cybersecurity
-🧠 Intelligent Automation       📡 Network Monitoring
-🤖 AI Security Systems          📱 Mobile Development
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
-> *"My goal is to build intelligent security systems capable of detecting and neutralizing  
-> cyber threats automatically — and contribute to the future of AI-powered cybersecurity."*
->
-> — Jordan Magistral
-
-</div>
+</p>
 
 ---
 
-## 📫 Contact
+# 🔬 Projects
 
-<div align="center">
+## 🛡 AI Guardian
 
-[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=6EE7F7)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-302b63?style=for-the-badge&logo=gmail&logoColor=6EE7F7)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=linkedin&logoColor=6EE7F7)](https://linkedin.com/in/YOUR_USERNAME)
+AI cybersecurity platform.
 
-</div>
+Features:
+
+- SSH attack detection
+- Auto-response system
+- Web dashboard
+- Network monitoring
+
+🔗 Repo  
+https://github.com/YOUR_USERNAME/ai-guardian
+
 
 ---
 
-<div align="center">
+## 📚 Exam Archive Platform
 
-⭐ *If my projects interest you, a star goes a long way — thank you.*
+Platform for storing and sharing **past exams** with freemium access.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+Features:
 
-</div>
+- Subject archive
+- Premium corrected solutions
+- Student community
+
+🔗 Repo  
+https://github.com/YOUR_USERNAME/exam-archive
+
+---
+
+## 📱 Android Apps
+
+Mobile applications built in **Java Android**.
+
+Features:
+
+- Local database
+- Navigation UI
+- Animations
+- Modern Android design
+
+🔗 Repo  
+https://github.com/YOUR_USERNAME/android-projects
+
+---
+
+# 🧪 Interests
+
+⚡ Artificial Intelligence  
+🔐 Cybersecurity  
+🧠 Intelligent Automation  
+📡 Network Monitoring  
+🤖 Security AI Systems  
+
+---
+
+# 🌍 Vision
+
+My goal is to build **intelligent security systems capable of detecting and neutralizing cyber threats automatically.**
+
+I want to contribute to the future of **AI-powered cybersecurity.**
+
+---
+
+# 📫 Contact
+
+💻 GitHub  
+https://github.com/YOUR_USERNAME
+
+📧 Email  
+your-email@example.com
+
+---
+
+<p align="center">
+
+⭐ *If you like my projects, consider starring them.*
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
