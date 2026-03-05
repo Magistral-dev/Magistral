@@ -1,106 +1,56 @@
-<div align="center">
-  
-  # ✦ Portfolio de Jordan MAGISTRAL✦
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Designer+3D;D%C3%A9veloppeur+Cr%C3%A9atif;Artiste+Num%C3%A9rique;Innovateur" alt="Typing SVG" />
-  
-  <br/>
-  
-  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F[TonPseudo]%2F[TonPseudo]&label=VISITEURS&countColor=%23263759&style=flat&labelStyle=none)](https://github.com/[TonPseudo])
-  [![Followers](https://img.shields.io/github/followers/[TonPseudo]?style=social)](https://github.com/[TonPseudo]?tab=followers)
-  [![Stars](https://img.shields.io/github/stars/[TonPseudo]?style=social)](https://github.com/[TonPseudo])
-  
-  <br/>
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
-</div>
+<!-- BANNER -->
 
-## ✦ À propos de moi ✦
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Jordan%20Magistral&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
-<img align="right" src="https://raw.githubusercontent.com/TonPseudo/TonPseudo/main/assets/code.gif" width="300" alt="Coding animation"/>
+---
 
-```javascript
-const profile = {
-  name: "Ton Nom",
-  role: "Créatif Numérique & Développeur",
-  passions: ["3D Design", "Développement Web", "Animations"],
-  tools: ["Blender", "Three.js", "React", "Figma"],
-  mindset: "Là où la créativité rencontre la technologie"
-};
+# 🧠 Jordan Magistral
 
-    🔭 Je travaille actuellement sur des projets mêlant 3D et interactivité web
+<p align="center">
 
-    🌱 J'explore en profondeur WebGL et les shaders
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;AI+%26+Cybersecurity+Enthusiast;Automation+Builder;Future+Security+Architect&center=true&width=600&height=45">
 
-    👯 Je cherche à collaborer sur des projets artistiques et techniques
+</p>
 
-    💬 Demande-moi à propos de Blender, Three.js, ou de créativité numérique
+---
 
-    ⚡ Fun fact: [Ajoute une anecdote intéressante sur toi]
+# 🚀 About Me
 
-<br clear="right"/>
-✦ Flow de Travail ✦
-<div align="center">
+🎓 **Software Engineering Student**
 
-graph LR
-    A[Idée] --> B[Design 3D]
-    B --> C[Développement]
-    C --> D[Animation]
-    D --> E[Interaction]
-    E --> F[Expérience Utilisateur]
-    F --> G[✨ Magie ✨]
+🔐 Passionate about **Cybersecurity, Artificial Intelligence and Automation**
 
-</div>
-✦ Projets Phares ✦
-<div align="center">
-🎨 Projet 1 - Visualisation 3D Immersive
+💻 I build systems capable of **detecting, analyzing and responding automatically to cyber threats**
 
-https://github-readme-stats.vercel.app/api/pin/?username=TonPseudo&repo=nom-du-repo&theme=tokyonight&bg_color=0D1117&border_color=61dafb&hide_border=true
-🚀 Projet 2 - Application Web Animée
+🧠 Currently exploring:
 
-https://github-readme-stats.vercel.app/api/pin/?username=TonPseudo&repo=nom-du-repo-2&theme=tokyonight&bg_color=0D1117&border_color=61dafb&hide_border=true
-💫 Projet 3 - Portfolio 3D Interactif
+- Artificial Intelligence
+- Security Automation
+- SOC Architecture
+- Threat Detection Systems
+- Intelligent Monitoring Platforms
 
-https://github-readme-stats.vercel.app/api/pin/?username=TonPseudo&repo=nom-du-repo-3&theme=tokyonight&bg_color=0D1117&border_color=61dafb&hide_border=true
-</div>
-✦ Stack Technique ✦
-<div align="center">
+⚡ My objective is to design **AI-powered cybersecurity systems capable of autonomous defense.**
 
-https://img.shields.io/badge/Blender-%2523F5792A.svg?style=for-the-badge&logo=blender&logoColor=white
-https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
-https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white
-https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white
-</div>
-✦ GitHub Analytics ✦
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudo&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonPseudo&theme=tokyonight&hide_border=true" width="48%"/> </div>
-✦ Contribution Graph ✦
-<div align="center">
+---
 
-https://github-readme-activity-graph.vercel.app/graph?username=TonPseudo&theme=react-dark&bg_color=0D1117&hide_border=true&area=true
-</div>
-✦ Me Contacter ✦
-<div align="center">
+# 🛡 Flagship Project
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-</div>
-✦ Supporte Mon Travail ✦
-<div align="center">
+# AI Guardian
 
-https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
-https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white
-</div><div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-✦ Merci de ta visite ! ✦
+**AI Guardian – Intelligent platform for prevention, detection and response to operational risks.**
 
-https://komarev.com/ghpvc/?username=TonPseudo&color=blueviolet&style=flat-square&label=VISITES
+Architecture vision:
+React.js
+TailwindCSS
+AI for Cybersecurity
+SOC Automation
+Advanced Linux Security
 
-https://raw.githubusercontent.com/TonPseudo/TonPseudo/main/assets/footer.svg
-</div> ```
+Future exploration:
+Machine Learning Security
+Network Forensics
+Threat Intelligence
+Cloud Security
